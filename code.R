@@ -41,4 +41,3 @@ barchart(amount ~ utility_name | type, data = ave,
          xlab = "Electric Company", ylab = "Energy Supply Rate", stack = TRUE,
          auto.key = list(space = "right"),
          scales = list(x = list(rot = 70)))
-
